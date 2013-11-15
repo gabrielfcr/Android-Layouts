@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.view.Menu;
 
 public class LinearLayout extends Activity {
+	private String hola;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
